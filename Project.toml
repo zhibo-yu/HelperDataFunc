@@ -2,3 +2,11 @@ name = "HelperDataFunc"
 uuid = "36b05f61-a5df-493a-9f8a-d1afbb682582"
 authors = ["zvy5225 "]
 version = "0.1.0"
+
+[deps]
+Cosmology = "76746363-e552-5dba-9a5a-cef6fa9cc5ab"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+FITSIO = "525bcba6-941b-5504-bd06-fd0dc1a4d2eb"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+UnitfulAstro = "6112ee07-acf9-5e0f-b108-d242c714bf9f"
