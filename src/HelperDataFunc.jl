@@ -14,6 +14,7 @@ using Unitful, UnitfulAstro
 using Cosmology
 using DataFrames
 using FITSIO
+using Statistics
 
 begin 
 
