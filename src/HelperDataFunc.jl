@@ -7,8 +7,9 @@ export read_gal_fits
 export my_subcatalog_struct
 export calc_mass_bins
 export calc_log_gal_density
+export read_param_from_chains
 
-export Catalog, masterdata
+export Catalog, masterdata, paramSMF
 
 using Unitful, UnitfulAstro
 using Cosmology
